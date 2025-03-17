@@ -15,4 +15,4 @@ A static web project showcasing my front-end development skills, focusing on str
   - **SCSS**: Preprocessed CSS with Flexbox and Grid implementations, compiled to CSS3 for modern styling.  
   - **Git**: Version control for efficient project management and portfolio readiness.
 
-[PAGE LINK](https://bohdandymydiuk.github.io/my-bike/)
+[LIVE DEMO](https://bohdandymydiuk.github.io/my-bike/)
