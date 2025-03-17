@@ -6,7 +6,7 @@ A static web project showcasing my front-end development skills, focusing on str
 
   Responsive Design: Adaptive layout optimized for all devices, powered by SCSS and responsive design principles.
   Flexible Layouts: Effective use of Flexbox and Grid in SCSS for dynamic, organized, and maintainable styling.
-  Advanced SCSS: Leveraging nesting, variables, and mixins to create scalable and reusable styles.
+  Advanced SCSS: Leveraging nesting, variables, and mixins to create scalable and reusable styles.  
   Semantic HTML: Clean, accessible markup adhering to web standards.
 
 ## Technologies Used
